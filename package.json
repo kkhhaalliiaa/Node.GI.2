@@ -10,7 +10,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "movie-api server/app.js"
+    "start": "node server/app.js"
   },
   "keywords": [],
   "author": "",
