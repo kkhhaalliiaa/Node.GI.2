@@ -54,7 +54,7 @@ app.get('*',(req,res)=> {
     })
 })
 
-app.listen(port, ()=>{
+app.listen(PORT, ()=>{
     console.log('server on port 3000')
 })
 
