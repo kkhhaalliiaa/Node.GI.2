@@ -4,6 +4,7 @@ Christmas Movie Finder is a web application that allows users to search for movi
 ## Features
 - Movie Search: Explore a vast library of movies, including but not limited to Christmas-themed films.
 - Thematic Focus: The platform highlights Christmas movies for fans of the holiday spirit.
+- Custom 404 Page: If you navigate to an invalid URL, you'll see a festive 404 page to guide you back to the homepage.
 
 ## Technologies Used
 - Backend: Node.js with Express.js
